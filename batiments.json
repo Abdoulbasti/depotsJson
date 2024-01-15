@@ -1,0 +1,80 @@
+{
+  "nomSujet": "Construction de Bâtiments",
+  "questions": [
+    {
+      "texteQuestion": "Quel terme désigne la construction du squelette extérieur d'un bâtiment ?",
+      "reponseCorrect": "Charpente",
+      "reponseIncorrect": "Fondation"
+    },
+    {
+      "texteQuestion": "Quel est le rôle principal des fondations dans la construction d'un bâtiment ?",
+      "reponseCorrect": "Supporter le poids de la structure",
+      "reponseIncorrect": "Isoler thermiquement le bâtiment"
+    },
+    {
+      "texteQuestion": "Quel matériau est souvent utilisé pour les structures à haute résistance ?",
+      "reponseCorrect": "Acier",
+      "reponseIncorrect": "Bois"
+    },
+    {
+      "texteQuestion": "Qu'appelle-t-on un plan d'ensemble détaillé d'un bâtiment ?",
+      "reponseCorrect": "Plan architectural",
+      "reponseIncorrect": "Schéma directeur"
+    },
+    {
+      "texteQuestion": "Quel système est essentiel pour la gestion de l'eau dans les bâtiments ?",
+      "reponseCorrect": "Plomberie",
+      "reponseIncorrect": "Ventilation"
+    },
+    {
+      "texteQuestion": "Dans la construction, que signifie le terme 'maçonnerie' ?",
+      "reponseCorrect": "Construction avec des briques ou des pierres",
+      "reponseIncorrect": "Travaux de charpente"
+    },
+    {
+      "texteQuestion": "Quel type de plan montre la vue de dessus d'un bâtiment ?",
+      "reponseCorrect": "Plan de masse",
+      "reponseIncorrect": "Élévation"
+    },
+    {
+      "texteQuestion": "Qu'est-ce qu'une 'charge portante' dans la construction ?",
+      "reponseCorrect": "Une force supportée par la structure d'un bâtiment",
+      "reponseIncorrect": "Le poids des matériaux de construction"
+    },
+    {
+      "texteQuestion": "Quel dispositif est utilisé pour protéger les bâtiments contre les surtensions électriques ?",
+      "reponseCorrect": "Parafoudre",
+      "reponseIncorrect": "Disjoncteur"
+    },
+    {
+      "texteQuestion": "Comment appelle-t-on la finition extérieure appliquée aux murs d'un bâtiment ?",
+      "reponseCorrect": "Revêtement",
+      "reponseIncorrect": "Coffrage"
+    },
+    {
+      "texteQuestion": "Quel est le rôle d'un ingénieur en structure dans la construction d'un bâtiment ?",
+      "reponseCorrect": "Concevoir et calculer la stabilité des structures",
+      "reponseIncorrect": "Gérer le planning de construction"
+    },
+    {
+      "texteQuestion": "Qu'est-ce qu'un 'permis de construire' ?",
+      "reponseCorrect": "Une autorisation légale pour commencer la construction",
+      "reponseIncorrect": "Une certification de fin de construction"
+    },
+    {
+      "texteQuestion": "Quel type de fondation est le plus adapté pour un sol argileux ?",
+      "reponseCorrect": "Fondations profondes",
+      "reponseIncorrect": "Fondations superficielles"
+    },
+    {
+      "texteQuestion": "Quel est l'outil principal utilisé pour mesurer l'altitude ou la hauteur dans les travaux de construction ?",
+      "reponseCorrect": "Niveau laser",
+      "reponseIncorrect": "Équerre"
+    },
+    {
+      "texteQuestion": "Qu'est-ce qu'une 'façade ventilée' dans la construction de bâtiments ?",
+      "reponseCorrect": "Un système de mur externe avec un espace d'air pour l'isolation thermique",
+      "reponseIncorrect": "Une façade avec de nombreuses fenêtres pour la ventilation naturelle"
+    }
+  ]
+}
