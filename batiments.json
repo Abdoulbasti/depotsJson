@@ -2,64 +2,24 @@
   "nomSujet": "Construction de Batiments",
   "questions": [
     {
-      "texteQuestion": "Quel terme désigne la construction du squelette extérieur d'un bâtiment ?",
+      "texteQuestion": "Quel terme designe la construction du squelette exterieur de batiment ?",
       "reponseCorrecte": "Charpente",
       "reponseIncorrecte": "Fondation"
     },
     {
-      "texteQuestion": "Quel est le rôle principal des fondations dans la construction d'un bâtiment ?",
-      "reponseCorrecte": "Supporter le poids de la structure",
-      "reponseIncorrecte": "Isoler thermiquement le bâtiment"
-    },
-    {
-      "texteQuestion": "Quel matériau est souvent utilisé pour les structures à haute résistance ?",
+      "texteQuestion": "Quel materiau est souvent utilisé pour les structures à haute resistance ?",
       "reponseCorrecte": "Acier",
       "reponseIncorrecte": "Bois"
     },
     {
-      "texteQuestion": "Qu'appelle-t-on un plan d'ensemble détaillé d'un bâtiment ?",
-      "reponseCorrecte": "Plan architectural",
-      "reponseIncorrecte": "Schéma directeur"
-    },
-    {
-      "texteQuestion": "Quel système est essentiel pour la gestion de l'eau dans les bâtiments ?",
+      "texteQuestion": "Quel systeme est essentiel pour la gestion de l eau dans les batiments ?",
       "reponseCorrecte": "Plomberie",
       "reponseIncorrecte": "Ventilation"
     },
     {
-      "texteQuestion": "Dans la construction, que signifie le terme 'maçonnerie' ?",
-      "reponseCorrecte": "Construction avec des briques ou des pierres",
-      "reponseIncorrecte": "Travaux de charpente"
-    },
-    {
-      "texteQuestion": "Quel type de plan montre la vue de dessus d'un bâtiment ?",
-      "reponseCorrecte": "Plan de masse",
-      "reponseIncorrecte": "Élévation"
-    },
-    {
-      "texteQuestion": "Qu'est-ce qu'une 'charge portante' dans la construction ?",
-      "reponseCorrecte": "Une force supportée par la structure d'un bâtiment",
-      "reponseIncorrecte": "Le poids des matériaux de construction"
-    },
-    {
-      "texteQuestion": "Quel dispositif est utilisé pour protéger les bâtiments contre les surtensions électriques ?",
-      "reponseCorrecte": "Parafoudre",
-      "reponseIncorrecte": "Disjoncteur"
-    },
-    {
-      "texteQuestion": "Comment appelle-t-on la finition extérieure appliquée aux murs d'un bâtiment ?",
-      "reponseCorrecte": "Revêtement",
-      "reponseIncorrecte": "Coffrage"
-    },
-    {
-      "texteQuestion": "Quel est le rôle d'un ingénieur en structure dans la construction d'un bâtiment ?",
+      "texteQuestion": "Quel est le rôle d'un ingénieur en structure dans la construction de batiment ?",
       "reponseCorrecte": "Concevoir et calculer la stabilité des structures",
       "reponseIncorrecte": "Gérer le planning de construction"
-    },
-    {
-      "texteQuestion": "Qu'est-ce qu'un 'permis de construire' ?",
-      "reponseCorrecte": "Une autorisation légale pour commencer la construction",
-      "reponseIncorrecte": "Une certification de fin de construction"
     },
     {
       "texteQuestion": "Quel type de fondation est le plus adapté pour un sol argileux ?",
@@ -67,14 +27,9 @@
       "reponseIncorrecte": "Fondations superficielles"
     },
     {
-      "texteQuestion": "Quel est l'outil principal utilisé pour mesurer l'altitude ou la hauteur dans les travaux de construction ?",
+      "texteQuestion": "Quel est l outil principal utilisé pour mesurer l altitude ou la hauteur dans les travaux de construction ?",
       "reponseCorrecte": "Niveau laser",
       "reponseIncorrecte": "Équerre"
-    },
-    {
-      "texteQuestion": "Qu'est-ce qu'une 'façade ventilée' dans la construction de bâtiments ?",
-      "reponseCorrecte": "Un système de mur externe avec un espace d'air pour l'isolation thermique",
-      "reponseIncorrecte": "Une façade avec de nombreuses fenêtres pour la ventilation naturelle"
     }
   ]
 }
