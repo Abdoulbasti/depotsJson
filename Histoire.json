@@ -1,0 +1,30 @@
+{
+  "nomSujet": "Histoire",
+  "questions": [
+    {
+      "texteQuestion": "Qui a découvert l'Amérique ?",
+      "reponseCorrecte": "Christophe Colomb",
+      "reponseIncorrecte": "Léonard de Vinci"
+    },
+    {
+      "texteQuestion": "Quelle année a marqué le début de la Première Guerre mondiale ?",
+      "reponseCorrecte": "1914",
+      "reponseIncorrecte": "1918"
+    },
+    {
+      "texteQuestion": "Quelle année a marqué le début de la deuxieme Guerre mondiale ?",
+      "reponseCorrecte": "1945",
+      "reponseIncorrecte": "1918"
+    },
+    {
+      "texteQuestion": "Qui était le premier président des États-Unis ?",
+      "reponseCorrecte": "George Washington",
+      "reponseIncorrecte": "Abraham Lincoln"
+    },
+    {
+      "texteQuestion": "Quelle civilisation a construit les pyramides ?",
+      "reponseCorrecte": "Les Égyptiens",
+      "reponseIncorrecte": "Les Mayas"
+    }
+  ]
+}
