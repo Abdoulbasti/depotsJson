@@ -1,0 +1,20 @@
+{
+  "nomSujet": "Culture Générale",
+  "questions": [
+    {
+      "texteQuestion": "Quelle est la capitale de la France ?",
+      "reponseCorrecte": "Paris",
+      "reponseIncorrecte": "Lyon"
+    },
+    {
+      "texteQuestion": "Qui a peint la Joconde ?",
+      "reponseCorrecte": "Léonard de Vinci",
+      "reponseIncorrecte": "Michel-Ange"
+    },
+    {
+      "texteQuestion": "Quelle est la distance moyenne entre la Terre et la Lune ?",
+      "reponseCorrecte": "384 400 km",
+      "reponseIncorrecte": "1 000 000 km"
+    }
+  ]
+}
