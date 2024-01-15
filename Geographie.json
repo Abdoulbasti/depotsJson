@@ -1,0 +1,15 @@
+{
+  "nomSujet": "Géographie",
+  "questions": [
+    {
+      "texteQuestion": "Quel est le plus long fleuve du monde ?",
+      "reponseCorrecte": "Le Nil",
+      "reponseIncorrecte": "L'Amazone"
+    },
+    {
+      "texteQuestion": "Quelle est la capitale de la France ?",
+      "reponseCorrecte": "Paris",
+      "reponseIncorrecte": "Lyon"
+    }
+  ]
+}
