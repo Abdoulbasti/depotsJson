@@ -37,7 +37,7 @@
       "reponseIncorrecte": "Miso"
     },
     {
-      "texteQuestion": "De quel pays est originaire le plat 'Paella' ?",
+      "texteQuestion": "De quel pays est originaire le plat Paella ?",
       "reponseCorrecte": "Espagne",
       "reponseIncorrecte": "Portugal"
     },
@@ -72,7 +72,7 @@
       "reponseIncorrecte": "Poulet"
     },
     {
-      "texteQuestion": "Dans quelle cuisine trouve-t-on fréquemment le 'Baklava', un dessert sucré à base de pâte filo ?",
+      "texteQuestion": "Dans quelle cuisine trouve-t-on fréquemment le Baklava, un dessert sucré à base de pâte filo ?",
       "reponseCorrecte": "Turque et grecque",
       "reponseIncorrecte": "Italienne"
     }
