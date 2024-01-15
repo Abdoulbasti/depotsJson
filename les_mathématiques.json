@@ -1,0 +1,15 @@
+{
+  "nomSujet": "Les Mathématiques",
+  "questions": [
+    {
+      "texteQuestion": "Quel est le résultat de 2 + 2 ?",
+      "reponseCorrecte": "4",
+      "reponseIncorrecte": "5"
+    },
+    {
+      "texteQuestion": "Quelle est la racine carrée de 9 ?",
+      "reponseCorrecte": "3",
+      "reponseIncorrecte": "2"
+    }
+  ]
+}
