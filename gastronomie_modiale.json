@@ -1,0 +1,80 @@
+{
+  "nomSujet": "Gastronomie Mondiale",
+  "questions": [
+    {
+      "texteQuestion": "Quel pays est célèbre pour sa pizza et ses pâtes ?",
+      "reponseCorrect": "Italie",
+      "reponseIncorrect": "France"
+    },
+    {
+      "texteQuestion": "Quel plat japonais est constitué de poisson cru tranché ?",
+      "reponseCorrect": "Sashimi",
+      "reponseIncorrect": "Sushi"
+    },
+    {
+      "texteQuestion": "Dans quel pays le curry est-il un plat traditionnel populaire ?",
+      "reponseCorrect": "Inde",
+      "reponseIncorrect": "Mexique"
+    },
+    {
+      "texteQuestion": "Quel plat français est fait de canard ou d'oie cuits dans leur propre graisse ?",
+      "reponseCorrect": "Confit",
+      "reponseIncorrect": "Ratatouille"
+    },
+    {
+      "texteQuestion": "Quel est le principal ingrédient du guacamole ?",
+      "reponseCorrect": "Avocat",
+      "reponseIncorrect": "Tomate"
+    },
+    {
+      "texteQuestion": "Quelle est la spécialité culinaire de la Belgique connue mondialement ?",
+      "reponseCorrect": "Chocolat",
+      "reponseIncorrect": "Crêpes"
+    },
+    {
+      "texteQuestion": "Quelle soupe épicée d'origine thaïlandaise est préparée avec du lait de coco ?",
+      "reponseCorrect": "Tom Kha Gai",
+      "reponseIncorrect": "Miso"
+    },
+    {
+      "texteQuestion": "De quel pays est originaire le plat 'Paella' ?",
+      "reponseCorrect": "Espagne",
+      "reponseIncorrect": "Portugal"
+    },
+    {
+      "texteQuestion": "Dans quel pays le kimchi est-il un plat d'accompagnement courant ?",
+      "reponseCorrect": "Corée",
+      "reponseIncorrect": "Japon"
+    },
+    {
+      "texteQuestion": "Quel est le nom d'un plat traditionnel britannique composé de poisson frit et de frites ?",
+      "reponseCorrect": "Fish and Chips",
+      "reponseIncorrect": "Bangers and Mash"
+    },
+    {
+      "texteQuestion": "Quelle pâtisserie est un symbole de la cuisine viennoise en Autriche ?",
+      "reponseCorrect": "Sachertorte",
+      "reponseIncorrect": "Strudel"
+    },
+    {
+      "texteQuestion": "Quel pays est réputé pour son fromage feta ?",
+      "reponseCorrect": "Grèce",
+      "reponseIncorrect": "Italie"
+    },
+    {
+      "texteQuestion": "Quel plat mexicain consiste en une tortilla pliée remplie de divers ingrédients ?",
+      "reponseCorrect": "Taco",
+      "reponseIncorrect": "Burrito"
+    },
+    {
+      "texteQuestion": "Quel est le principal ingrédient du bœuf bourguignon, un plat traditionnel français ?",
+      "reponseCorrect": "Bœuf",
+      "reponseIncorrect": "Poulet"
+    },
+    {
+      "texteQuestion": "Dans quelle cuisine trouve-t-on fréquemment le 'Baklava', un dessert sucré à base de pâte filo ?",
+      "reponseCorrect": "Turque et grecque",
+      "reponseIncorrect": "Italienne"
+    }
+  ]
+}
