@@ -1,0 +1,35 @@
+{
+  "nomSujet": "Mathematiques Basiques",
+  "questions": [
+    {
+      "texteQuestion": "Combien font 2 + 3 ?",
+      "reponseCorrecte": "5",
+      "reponseIncorrecte": "4"
+    },
+    {
+      "texteQuestion": "Quel est le produit de 4 x 5 ?",
+      "reponseCorrecte": "20",
+      "reponseIncorrecte": "9"
+    },
+    {
+      "texteQuestion": "Quelle est la différence entre 10 et 7 ?",
+      "reponseCorrecte": "3",
+      "reponseIncorrecte": "5"
+    },
+    {
+      "texteQuestion": "Si vous divisez 12 par 4, quel est le résultat ?",
+      "reponseCorrecte": "3",
+      "reponseIncorrecte": "4"
+    },
+    {
+      "texteQuestion": "Quelle est la moitié de 16 ?",
+      "reponseCorrecte": "8",
+      "reponseIncorrecte": "10"
+    },
+    {
+      "texteQuestion": "Combien font 10 - 3 ?",
+      "reponseCorrecte": "7",
+      "reponseIncorrecte": "6"
+    }
+  ]
+}
