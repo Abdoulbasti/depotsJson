@@ -1,0 +1,80 @@
+{
+  "nomSujet": "Histoire du Titanic",
+  "questions": [
+    {
+      "texteQuestion": "Quelle compagnie a construit le Titanic ?",
+      "reponseCorrect": "White Star Line",
+      "reponseIncorrect": "Cunard Line"
+    },
+    {
+      "texteQuestion": "En quelle année le Titanic a-t-il effectué son voyage inaugural ?",
+      "reponseCorrect": "1912",
+      "reponseIncorrect": "1911"
+    },
+    {
+      "texteQuestion": "De quel port le Titanic est-il parti pour son voyage inaugural ?",
+      "reponseCorrect": "Southampton",
+      "reponseIncorrect": "Liverpool"
+    },
+    {
+      "texteQuestion": "Quel était le but du voyage inaugural du Titanic ?",
+      "reponseCorrect": "Traverser l'Atlantique de Southampton à New York",
+      "reponseIncorrect": "Traverser le Pacifique de Londres à San Francisco"
+    },
+    {
+      "texteQuestion": "Comment s'appelait le capitaine du Titanic ?",
+      "reponseCorrect": "Edward John Smith",
+      "reponseIncorrect": "John Edward Smith"
+    },
+    {
+      "texteQuestion": "Quelle était la principale cause du naufrage du Titanic ?",
+      "reponseCorrect": "Collision avec un iceberg",
+      "reponseIncorrect": "Une tempête en mer"
+    },
+    {
+      "texteQuestion": "Combien de cheminées le Titanic avait-il ?",
+      "reponseCorrect": "4",
+      "reponseIncorrect": "3"
+    },
+    {
+      "texteQuestion": "Quelle était la capacité maximale de passagers du Titanic ?",
+      "reponseCorrect": "Environ 3300 personnes",
+      "reponseIncorrect": "Environ 2300 personnes"
+    },
+    {
+      "texteQuestion": "Quel était le nom de la société qui a fabriqué le Titanic ?",
+      "reponseCorrect": "Harland and Wolff",
+      "reponseIncorrect": "North Eastern Shipbuilding"
+    },
+    {
+      "texteQuestion": "Dans quelle ville le Titanic a-t-il été construit ?",
+      "reponseCorrect": "Belfast",
+      "reponseIncorrect": "Glasgow"
+    },
+    {
+      "texteQuestion": "Combien de personnes ont survécu au naufrage du Titanic ?",
+      "reponseCorrect": "Environ 710",
+      "reponseIncorrect": "Environ 500"
+    },
+    {
+      "texteQuestion": "Quelle classe de passagers était majoritaire sur le Titanic ?",
+      "reponseCorrect": "Troisième classe",
+      "reponseIncorrect": "Première classe"
+    },
+    {
+      "texteQuestion": "Quel film célèbre de 1997 raconte l'histoire du Titanic ?",
+      "reponseCorrect": "Titanic",
+      "reponseIncorrect": "The Ship of Dreams"
+    },
+    {
+      "texteQuestion": "Quelle était la principale raison pour laquelle il n'y avait pas assez de canots de sauvetage sur le Titanic ?",
+      "reponseCorrect": "Pour maintenir l'esthétique et le confort du pont",
+      "reponseIncorrect": "Parce qu'ils ont été endommagés avant le départ"
+    },
+    {
+      "texteQuestion": "Quel était le nom du navire qui a secouru les survivants du Titanic ?",
+      "reponseCorrect": "Carpathia",
+      "reponseIncorrect": "Californian"
+    }
+  ]
+}
