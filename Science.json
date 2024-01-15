@@ -1,0 +1,15 @@
+{
+  "nomSujet": "Science",
+  "questions": [
+    {
+      "texteQuestion": "Quelle est la formule chimique de l'eau ?",
+      "reponseCorrecte": "H2O",
+      "reponseIncorrecte": "CO2"
+    },
+    {
+      "texteQuestion": "Quel est le satellite naturel de la Terre ?",
+      "reponseCorrecte": "La Lune",
+      "reponseIncorrecte": "Mars"
+    }
+  ]
+}
