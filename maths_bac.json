@@ -3,78 +3,78 @@
   "questions": [
     {
       "texteQuestion": "Quelle est la dérivée de la fonction f(x) = x^2 ?",
-      "reponseCorrect": "2x",
-      "reponseIncorrect": "x^2"
+      "reponseCorrecte": "2x",
+      "reponseIncorrecte": "x^2"
     },
     {
       "texteQuestion": "Quelle est l'intégrale de la fonction f(x) = 3x ?",
-      "reponseCorrect": "1.5x^2 + C",
-      "reponseIncorrect": "3x^2 + C"
+      "reponseCorrecte": "1.5x^2 + C",
+      "reponseIncorrecte": "3x^2 + C"
     },
     {
       "texteQuestion": "Résolvez l'équation suivante : 3x - 5 = 10.",
-      "reponseCorrect": "x = 5",
-      "reponseIncorrect": "x = 15"
+      "reponseCorrecte": "x = 5",
+      "reponseIncorrecte": "x = 15"
     },
     {
       "texteQuestion": "Quelle est la forme canonique de la fonction f(x) = x^2 - 4x + 4 ?",
-      "reponseCorrect": "(x - 2)^2",
-      "reponseIncorrect": "x^2 - 4x"
+      "reponseCorrecte": "(x - 2)^2",
+      "reponseIncorrecte": "x^2 - 4x"
     },
     {
       "texteQuestion": "Qu'est-ce qu'une asymptote verticale ?",
-      "reponseCorrect": "Une ligne vers laquelle une courbe tend, mais qu'elle ne touche jamais",
-      "reponseIncorrect": "Une ligne que la courbe croise plusieurs fois"
+      "reponseCorrecte": "Une ligne vers laquelle une courbe tend, mais qu'elle ne touche jamais",
+      "reponseIncorrecte": "Une ligne que la courbe croise plusieurs fois"
     },
     {
       "texteQuestion": "Comment appelle-t-on une fonction qui a la même image pour -x et pour x ?",
-      "reponseCorrect": "Fonction paire",
-      "reponseIncorrect": "Fonction impaire"
+      "reponseCorrecte": "Fonction paire",
+      "reponseIncorrecte": "Fonction impaire"
     },
     {
       "texteQuestion": "Quelle est la limite de la fonction f(x) = 1/x lorsque x tend vers 0 ?",
-      "reponseCorrect": "Infini",
-      "reponseIncorrect": "0"
+      "reponseCorrecte": "Infini",
+      "reponseIncorrecte": "0"
     },
     {
       "texteQuestion": "Quelle est la somme des angles internes d'un pentagone ?",
-      "reponseCorrect": "540 degrés",
-      "reponseIncorrect": "360 degrés"
+      "reponseCorrecte": "540 degrés",
+      "reponseIncorrecte": "360 degrés"
     },
     {
       "texteQuestion": "Quelle est la valeur de sin(90°) ?",
-      "reponseCorrect": "1",
-      "reponseIncorrect": "0"
+      "reponseCorrecte": "1",
+      "reponseIncorrecte": "0"
     },
     {
       "texteQuestion": "Quel est le discriminant de l'équation quadratique x^2 - 4x + 4 = 0 ?",
-      "reponseCorrect": "0",
-      "reponseIncorrect": "16"
+      "reponseCorrecte": "0",
+      "reponseIncorrecte": "16"
     },
     {
       "texteQuestion": "Si une matrice A est de taille 2x3, quelle doit être la taille d'une matrice B pour que le produit AB soit défini ?",
-      "reponseCorrect": "3xN",
-      "reponseIncorrect": "2xN"
+      "reponseCorrecte": "3xN",
+      "reponseIncorrecte": "2xN"
     },
     {
       "texteQuestion": "Quelle est la formule de l'aire d'un cercle de rayon r ?",
-      "reponseCorrect": "πr^2",
-      "reponseIncorrect": "2πr"
+      "reponseCorrecte": "πr^2",
+      "reponseIncorrecte": "2πr"
     },
     {
       "texteQuestion": "Quelle est la somme de la série géométrique 1 + 1/2 + 1/4 + 1/8 + ... ?",
-      "reponseCorrect": "2",
-      "reponseIncorrect": "1"
+      "reponseCorrecte": "2",
+      "reponseIncorrecte": "1"
     },
     {
       "texteQuestion": "Quelle est la forme générale de l'équation d'une droite dans le plan ?",
-      "reponseCorrect": "y = mx + b",
-      "reponseIncorrect": "ax^2 + bx + c = 0"
+      "reponseCorrecte": "y = mx + b",
+      "reponseIncorrecte": "ax^2 + bx + c = 0"
     },
     {
       "texteQuestion": "Si le vecteur A a des composantes (3, 4) et le vecteur B a des composantes (4, -3), quel est le produit scalaire de A et B ?",
-      "reponseCorrect": "0",
-      "reponseIncorrect": "25"
+      "reponseCorrecte": "0",
+      "reponseIncorrecte": "25"
     }
   ]
 }
