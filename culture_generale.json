@@ -3,18 +3,18 @@
   "questions": [
     {
       "texteQuestion": "Quelle est la capitale de la France ?",
-      "reponseCorrect": "Paris",
-      "reponseIncorrect": "Lyon"
+      "reponseCorrecte": "Paris",
+      "reponseIncorrecte": "Lyon"
     },
     {
       "texteQuestion": "Qui a peint la Joconde ?",
-      "reponseCorrect": "Léonard de Vinci",
-      "reponseIncorrect": "Michel-Ange"
+      "reponseCorrecte": "Léonard de Vinci",
+      "reponseIncorrecte": "Michel-Ange"
     },
     {
       "texteQuestion": "Quelle est la distance moyenne entre la Terre et la Lune ?",
-      "reponseCorrect": "384 400 km",
-      "reponseIncorrect": "1 000 000 km"
+      "reponseCorrecte": "384 400 km",
+      "reponseIncorrecte": "1 000 000 km"
     }
   ]
 }
