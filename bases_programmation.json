@@ -1,0 +1,55 @@
+{
+  "nomSujet": "Bases de la Programmation",
+  "questions": [
+    {
+      "texteQuestion": "Quel est le rôle principal d'une variable en programmation ?",
+      "reponseCorrecte": "Stocker une valeur",
+      "reponseIncorrecte": "Effectuer un calcul"
+    },
+    {
+      "texteQuestion": "Quel langage est couramment utilisé pour la programmation côté serveur sur le Web ?",
+      "reponseCorrecte": "JavaScript",
+      "reponseIncorrecte": "HTML"
+    },
+    {
+      "texteQuestion": "Que signifie 'IDE' en programmation ?",
+      "reponseCorrecte": "Integrated Development Environment",
+      "reponseIncorrecte": "Internal Data Exchange"
+    },
+    {
+      "texteQuestion": "Quel symbole est généralement utilisé pour les commentaires en Python ?",
+      "reponseCorrecte": "#",
+      "reponseIncorrecte": "//"
+    },
+    {
+      "texteQuestion": "Que représente 'HTML' ?",
+      "reponseCorrecte": "Hypertext Markup Language",
+      "reponseIncorrecte": "Hyperlink and Text Markup Language"
+    },
+    {
+      "texteQuestion": "Quelle structure de contrôle répète un bloc de code tant qu'une condition est vraie ?",
+      "reponseCorrecte": "Boucle while",
+      "reponseIncorrecte": "Condition if"
+    },
+    {
+      "texteQuestion": "Qu'est-ce qu'un algorithme ?",
+      "reponseCorrecte": "Une série d'instructions pour résoudre un problème",
+      "reponseIncorrecte": "Un outil pour mesurer les performances du code"
+    },
+    {
+      "texteQuestion": "En programmation, que signifie 'OOP' ?",
+      "reponseCorrecte": "Object-Oriented Programming",
+      "reponseIncorrecte": "Online Operation Protocol"
+    },
+    {
+      "texteQuestion": "Quel est le but principal d'une fonction en programmation ?",
+      "reponseCorrecte": "Encapsuler un bloc de code pour l'exécuter ultérieurement",
+      "reponseIncorrecte": "Augmenter la vitesse d'exécution du programme"
+    },
+    {
+      "texteQuestion": "Comment appelle-t-on une erreur dans un programme qui empêche son exécution correcte ?",
+      "reponseCorrecte": "Bug",
+      "reponseIncorrecte": "Loop"
+    }
+  ]
+}
